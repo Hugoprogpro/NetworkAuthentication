@@ -1,7 +1,0 @@
-C:\inetpub\wwwroot\Auth\NetworkAuthentication\WebApplication1\bin\WebApplication1.dll
-C:\inetpub\wwwroot\Auth\NetworkAuthentication\WebApplication1\bin\WebApplication1.pdb
-C:\inetpub\wwwroot\Auth\NetworkAuthentication\WebApplication1\bin\NetworkAuthentication.dll
-C:\inetpub\wwwroot\Auth\NetworkAuthentication\WebApplication1\bin\NetworkAuthentication.pdb
-C:\inetpub\wwwroot\Auth\NetworkAuthentication\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
-C:\inetpub\wwwroot\Auth\NetworkAuthentication\WebApplication1\obj\Debug\WebApplication1.dll
-C:\inetpub\wwwroot\Auth\NetworkAuthentication\WebApplication1\obj\Debug\WebApplication1.pdb
